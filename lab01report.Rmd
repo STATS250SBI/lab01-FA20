@@ -182,6 +182,7 @@ At the top of the document, make sure you've changed the `author` field to your 
 
 When you've finished the lab, click the **Knit** button one last time.<br />
 ![Click the "Knit" button at the top of the editor pane"](images/knit-button.jpg)
+
 Give yourself a high five - you just wrote code! *Do not violate social distancing guidelines to give anyone else a high five :(*
 
 ### Submission instructions
@@ -195,10 +196,10 @@ constantly update the numbering when you move things around in editing! -->
 ![Check the box next to `lab01report.html`](images/html-checkbox.jpg)
 2. Click More > Export... </br>
 ![Click the More menu, then Export](images/html-export.jpg)
-3. Click Download and save the file on your computer. </br>
+3. Click Download and save the file on your computer in a folder you'll remember and be able to find later. You can just call the file `lab01report.html` or whatever else you'd like (as  long as you remember what you called it). </br>
 ![Click Download to save the file](images/html-download-button.jpg)
 
-#### If you're RStudio installed on your computer
+#### If you're using RStudio installed on your computer
 1. locate the `lab01report.html` file on your computer. The file will be saved in the location indicated at the top of the files pane. <br>
 ![Use the RStudio files pane to find where `lab01report.html` is saved.](images/desktop-filepath.jpg)
 
