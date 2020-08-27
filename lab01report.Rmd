@@ -184,8 +184,6 @@ When you've finished the lab, click the **Knit** button one last time.<br />
 ![Click the "Knit" button at the top of the editor pane"](images/knit-button.jpg)
 Give yourself a high five - you just wrote code! *Do not violate social distancing guidelines to give anyone else a high five :(*
 
-Then, in the folder where you saved this .Rmd file when you downloaded it from Canvas, you'll see an HTML file with the same name (for example, `lab01.html`). **This is what you will upload to Canvas as your submission for Lab 1.**
-
 ### Submission instructions
 <!-- This is a comment and will not show up in your document. Note that the
 numbering here is all 1's. This will automatically be converted to 1, 2, etc.
