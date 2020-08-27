@@ -17,19 +17,23 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Learning Objectives
 
 ### Statistical Learning Objectives
+<!-- This is a comment and will not show up in your document. Note that the
+numbering here is all 1's. This will automatically be converted to 1, 2, etc.
+when you knit the document; writing all 1's makes it so you don't have to 
+constantly update the numbering when you move things around in editing! -->
 1. Visualize categorical data
-2. Summarize quantitative and categorical data
+1. Summarize quantitative and categorical data
 
 ### R Learning Objectives
 1. Learn the difference between R, R Studio, and R Markdown
-2. Become familiar with the R Studio interface 
-3. Understand key components of an R Markdown document
-4. Become familiar with R functions and arguments
+1. Become familiar with the R Studio interface 
+1. Understand key components of an R Markdown document
+1. Become familiar with R functions and arguments
 
 ### Functions covered in this lab
 1. `head()`
-2. `barplot()`
-3. `summary()`
+1. `barplot()`
+1. `summary()`
 
 ## Lab Tutorial
 
@@ -38,7 +42,7 @@ In Statistics, we often use computers to analyze data. There are a lot of progra
 
 That might sound scary, but *don't worry*: this is not a programming class. Over the course of the semester, you'll learn how to edit and write some basic R code to help you analyze data to answer research questions. Our goal in lab is to help you learn the basics of R and R coding, but through the lens of answering statistical questions. 
 
-![R Studio Screenshot](rstudio_annotated.jpg)
+![R Studio Screenshot](images/rstudio_annotated.jpg)
 
 
 #### What are all these "R" terms?
@@ -62,8 +66,8 @@ When you click the **Knit** button in R Studio, a document will be generated tha
 
 #### Tips for R Markdown
 1. **Knit and knit often**: Frequently knitting your document will help you make sure that all your code works and that the document looks the way you want.
-2. **Don't be afraid to experiment**: Nobody gets things exactly right the first time, and we all forget how things work sometimes. Keep trying, and you'll eventually get what you want!
-3. **Formatting**: You can make text **bold** by surrounding it with two asterisks (`**`) and *italic* by surrounding it with one asterisk (`*`).
+1. **Don't be afraid to experiment**: Nobody gets things exactly right the first time, and we all forget how things work sometimes. Keep trying, and you'll eventually get what you want!
+1. **Formatting**: You can make text **bold** by surrounding it with two asterisks (`**`) and *italic* by surrounding it with one asterisk (`*`).
 
 ### Using R as a Calculator
 At it's most basic, R is a fancy calculator. 
@@ -130,8 +134,8 @@ R gives us 6 numbers: the minimum (shortest) flipper length, the first quartile,
 Depending on your instruction method (in person, synchronous remote, asynchronous remote), complete the following exercises collaboratively. 
 
 1. **In person:** Form groups of 2-4 with those around you (maintaining physical distance). Your instructor will provide additional details.
-2. **Synchronous remote:** You will be placed in a Zoom breakout room to work together in small groups. 
-3. **Asynchronous remote:** Join a Piazza lab group for asynchronous collaboration. **TODO: FIGURE THIS OUT, PROVIDE DIRECT LINKS**
+1. **Synchronous remote:** You will be placed in a Zoom breakout room to work together in small groups. 
+1. **Asynchronous remote:** Join a Piazza lab group for asynchronous collaboration. **TODO: FIGURE THIS OUT, PROVIDE DIRECT LINKS**
 
 
 **Collaborators:** Replace this text with the names of anyone you collaborated with on this project.
@@ -174,9 +178,37 @@ Each week, this section of the lab will have you dive deeper into the analysis. 
 
 ## Wrap-Up and Submission
 
-When you've finished the lab, click the **Knit** button one last time. Then, in the folder where you saved this .Rmd file when you downloaded it from Canvas, you'll see an HTML file with the same name (for example, `lab01.html`). **This is what you will upload to Canvas as your submission for Lab 1.**
+At the top of the document, make sure you've changed the `author` field to your name (in quotes!). If you'd like, change the date as well.
+
+When you've finished the lab, click the **Knit** button one last time.<br />
+![Click the "Knit" button at the top of the editor pane"](images/knit-button.jpg)
+Give yourself a high five - you just wrote code! *Do not violate social distancing guidelines to give anyone else a high five :(*
+
+Then, in the folder where you saved this .Rmd file when you downloaded it from Canvas, you'll see an HTML file with the same name (for example, `lab01.html`). **This is what you will upload to Canvas as your submission for Lab 1.**
 
 ### Submission instructions
-1. At the top of the document, make sure you've changed the `author` field to your name (in quotes!). If you'd like, change the date as well.
-2. **TODO: Screenshots!**
-3. Give yourself a high five - you just wrote code! *Under no circumstances should you give another person a high five; it's a pandemic*
+<!-- This is a comment and will not show up in your document. Note that the
+numbering here is all 1's. This will automatically be converted to 1, 2, etc.
+when you knit the document; writing all 1's makes it so you don't have to 
+constantly update the numbering when you move things around in editing! -->
+
+#### If you're using RStudio Cloud
+1. In the Files pane, check the box next to `lab01report.html`: </br>
+![Check the box next to `lab01report.html`](images/html-checkbox.jpg)
+2. Click More > Export... </br>
+![Click the More menu, then Export](images/html-export.jpg)
+3. Click Download and save the file on your computer. </br>
+![Click Download to save the file](images/html-download-button.jpg)
+
+#### If you're RStudio installed on your computer
+1. locate the `lab01report.html` file on your computer. The file will be saved in the location indicated at the top of the files pane. <br>
+![Use the RStudio files pane to find where `lab01report.html` is saved.](images/desktop-filepath.jpg)
+
+#### Submission to Canvas
+
+1. Click the "Assignments" panel on the left side of the page. Scroll to find "Lab 1", and open the assignment. Click "Submit Assignment". <br />
+![Click the Submit Assignment button in the Lab 1 assigment.](images/canvas-lab1.jpg)
+
+2. Towards the bottom of the page, you'll be able to choose `lab01report.html` from the folder you saved it in from RStudio Cloud or noted if you're using RStudio Desktop. **You will only be able to upload a .html file -- do not upload any other file type.** <br />
+![Upload lab01report.html to Canvas](images/canvas-file-upload.jpg)
+3. Click "Submit Assignment". You're done! 
