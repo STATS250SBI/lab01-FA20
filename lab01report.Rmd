@@ -135,10 +135,9 @@ Depending on your instruction method (in person, synchronous remote, asynchronou
 
 1. **In person:** Form groups of 2-4 with those around you (maintaining physical distance). Your instructor will provide additional details.
 1. **Synchronous remote:** You will be placed in a Zoom breakout room to work together in small groups. 
-1. **Asynchronous remote:** Join a Piazza lab group for asynchronous collaboration. **TODO: FIGURE THIS OUT, PROVIDE DIRECT LINKS**
+1. **Asynchronous remote:** Join a Piazza lab group for asynchronous collaboration.
 
-
-**Collaborators:** Replace this text with the names of anyone you collaborated with on this project.
+**Collaborators:** If applicable, replace this text with the names of anyone you collaborated with on this project.
 
 > **1.** Which of the variables in `penguins` are *quantitative* (or *numeric*) and which are *categorical*?
 
