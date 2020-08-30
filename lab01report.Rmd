@@ -135,7 +135,7 @@ Depending on your instruction method (in person, synchronous remote, asynchronou
 
 1. **In person:** Form groups of 2-4 with those around you (maintaining physical distance). Your instructor will provide additional details.
 1. **Synchronous remote:** You will be placed in a Zoom breakout room to work together in small groups. 
-1. **Asynchronous remote:** Join a Piazza lab group for asynchronous collaboration.
+1. **Asynchronous remote:** Use Piazza for asynchronous collaboration.
 
 **Collaborators:** If applicable, replace this text with the names of anyone you collaborated with on this project.
 
@@ -199,7 +199,7 @@ constantly update the numbering when you move things around in editing! -->
 ![Click Download to save the file](images/html-download-button.jpg)
 
 #### If you're using RStudio installed on your computer
-1. locate the `lab01report.html` file on your computer. The file will be saved in the location indicated at the top of the files pane. <br>
+1. Locate the `lab01report.html` file on your computer. The file will be saved in the location indicated at the top of the files pane. <br>
 ![Use the RStudio files pane to find where `lab01report.html` is saved.](images/desktop-filepath.jpg)
 
 #### Submission to Canvas
