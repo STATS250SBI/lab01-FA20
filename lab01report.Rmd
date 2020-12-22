@@ -153,7 +153,7 @@ Depending on your instruction method (in person, synchronous remote, asynchronou
 *Answer:*  Replace this text with your answer.
 
 
-> **2.** Make a bar chart for the number of penguins observed on each island in the Palmer Archipelago. You will need to use the `islands` variable in the `penguins` data set. *Hint: you can use existing code from above, and be sure to change the axis labels and title too!* \n
+> **2.** Make a bar chart for the number of penguins observed on each island in the Palmer Archipelago. You will need to use the `island` variable in the `penguins` data set. *Hint: you can use existing code from above, and be sure to change the axis labels and title too!* \n
 If you have time, play around with the colors! (things like "red", "yellow", "blue" work, but see [here](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) for a list of possible color names in R if you're more adventurous.)
 
 ```{r islandPlot, error = T}
